@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there, I am Muhammad Ahmad Raza 👋
+- 🌱 I’m currently learning <typescript>
+- 📫 How to reach me: <a href"www.linkedin.com/in/muhammad-ahmad-raza"
+- ⚡ Fun fact: I am leraning about programing language
